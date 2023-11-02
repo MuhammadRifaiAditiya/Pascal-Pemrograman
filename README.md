@@ -232,4 +232,5 @@ end.
 ![img](img/penjualan.png)
 
 2. Tampilan Harga Mouse Pad
+
 ![img](img/Mouse%20Pad.png)
